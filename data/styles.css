@@ -9,7 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.icon {
+}
 .box_3 {
+}
+.ellipse {
 }
 ._形状 {
 }
@@ -60,6 +66,11 @@
   font-size:14px;
   text-align:left;
 }
+._图片 {
+  color:#000000;
+}
+.placeholder {
+}
 ._文本段落 {
   text-align:left;
 }
@@ -74,4 +85,7 @@
   color:#000000;
 }
 .flow_shape {
+}
+.image1 {
+  color:#000000;
 }
